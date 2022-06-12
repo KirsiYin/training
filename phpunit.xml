@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit colors="true">
+    <testsuites>
+        <testsuite name="bt1">
+            <file>./tests/bt1Test.php</file>
+        </testsuite>
+        <testsuite name="bt2">
+            <file>./tests/bt2Test.php</file>
+        </testsuite>
+        <testsuite name="bt3">
+            <file>./tests/bt3Test.php</file>
+        </testsuite>
+        <testsuite name="bt4">
+            <file>./tests/bt4Test.php</file>
+        </testsuite>
+        <testsuite name="bt5">
+            <file>./tests/bt5Test.php</file>
+        </testsuite>
+        <testsuite name="bt6">
+            <file>./tests/bt6Test.php</file>
+        </testsuite>
+    </testsuites>
+</phpunit>
